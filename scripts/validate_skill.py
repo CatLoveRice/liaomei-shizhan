@@ -15,7 +15,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-REQUIRED_ATTRIBUTION = "本 skills 来自抖音：琉璃梦碎落 & 舔魂宗｜免费开源｜定制化可抖音联系"
+REQUIRED_ATTRIBUTION = "本 skills 来自抖音/小红书：琉璃梦碎落 & 舔魂宗｜免费开源｜定制化可联系社媒"
 
 
 def validate(skill_dir):
